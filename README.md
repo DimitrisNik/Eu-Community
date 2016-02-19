@@ -5,7 +5,7 @@
 Within the framework and scope of EU Community project, the present module aims at identifying existing or emerging topics from social media documents, extracting document parts that potentially contain subjective information and apply sentiment classification on such parts in order to characterize the polarity of public opinions and comments to a given topic. 
 
 ### Use Case
-![Alt text](https://onedrive.live.com/redir?resid=C0F0428E444B3FE0!74016&authkey=!ADerlhcwG2yjSXQ&v=3&ithint=photo%2cpng?raw=true "Optional Title")
+![Alt text](https://github.com/DimitrisNik/Eu-Community/blob/master/use.case.png?raw=true "Optional Title")
 
 
 
