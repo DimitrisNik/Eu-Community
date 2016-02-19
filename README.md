@@ -6,6 +6,7 @@ Within the framework and scope of EU Community project, the present module aims 
 
 ### Use Case
 
+https://github.com/DimitrisNik/Eu-Community/blob/master/use.case.png
 
 ### Requirements
 
