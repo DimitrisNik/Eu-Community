@@ -1,0 +1,64 @@
+﻿<?xml version="1.0"?>
+<sentimentjob>
+  <parameters>
+    <method>PL</method>
+    <classifier>SVM</classifier>
+  </parameters>
+  <preprocessing>
+    <POStags>N.*|J.*|R.*</POStags>
+    <stemmer>Porter</stemmer>
+    <n-grams>1</n-grams>
+  </preprocessing>
+  <documents>
+<document id="1" mediasource="" type="d" url="">Huge increase of 292,000 foreign workers in past year demonstrates that the Coalition immigration policy has been an abject failure</document>
+<document id="2" mediasource="" type="d" url="">My message to UKIP supporters is stay focused, stay dignified and keep the faith with good old-fashioned common sense http://t.co/rWS1riI2AT</document>
+<document id="3" mediasource="" type="d" url="">If Cameron thinks I&#039;m a chicken then no doubt he will challenge me to a TV debate and see if I refuse.</document>
+<document id="4" mediasource="" type="d" url="">This is in my view the most powerful image of the entire European election campaign. http://t.co/TDWQeWjiEA</document>
+<document id="5" mediasource="" type="d" url="">Every night there is such a positive reaction. This is what politics is about. Actually meeting the people who vote. http://t.co/JUS7zATrUt</document>
+<document id="6" mediasource="" type="d" url="">UKIP campaigners make the best cupcakes. http://t.co/X71wbje4bI</document>
+<document id="7" mediasource="" type="d" url="">A busy day ends with an interview with students from Newcastle Uni. I&#039;m always happy to help student journalists. http://t.co/LeaZMUpAoz</document>
+<document id="8" mediasource="" type="d" url="">"An oath of allegiance to the Treaty of the EU and &#039;European values&#039; should ban far-right, anti-immigrant and racist politicians from the European Parliament. Sounds too good to be true? That&#039;s because it is, writes Mose Apelblat.
+Mose Apelblat is a writer and commentator on EU affairs&amp;nbsp;and&amp;nbsp;former official at the European Commission.
+But what else can be done to prevent hate speech and the abuse of the parliament? These MEPs have been elected on a national mandate and cannot be banned from the parliament. They also do enjoy parliamentary immunity.
+The opening of the new parliament is approaching and until now we havenβ€™t heard much about how it intends to tackle the problem. The main parties and the Council have been busy arguing about who should be the new president of the Commission.
+The far-right parties themselves have other more urgent concerns and have been trying forming political party groups which would make them eligible for more funding and speaking time in the parliament.
+Forming a political party group would give these parties added strength. On the other hand political party groups are obliged to respect the basic values of the European Union. A similar condition cannot be found in either the Code of Conduct of the MEPs, or the Rules of Procedures of the parliament.
+Until now their efforts to form a common party group havenβ€™t been very successful. They are too divided, and as ultra-nationalists, they really donβ€™t like other nationalities from other countries. We can therefore expect that a large number of them will not be attached to any party group.
+It would really be a disgrace if any MEP would use the floor of the parliament and its meeting rooms for hate speech - even more so when considering that there is a Council Framework Decision (2008/913/JHA) on combatting certain forms and expressions of racism and xenophobia by means of criminal law.
+The parliament would be advised to reflect on the Commissionβ€™s report of 27 January this year on the national transposition of the Framework decision. The report begins by stating that all forms and manifestations of racism and xenophobia are incompatible with the values upon which the EU is founded.
+As regards hate speech, Member States must ensure that the following intentional conduct is punishable when directed against a group of persons or a member of such a group defined by reference to race, color, religion, descent or national or ethnic origin:
+	Publicly inciting to violence or hatred
+	Publicly condoning, denying or grossly trivializing crimes of genocide
+
+Racist and xenophobic attitudes expressed by opinion leaders, e.g. MEPs from far-right parties, may contribute to a social climate that condones racism and xenophobia and may therefore propagate more serious forms of conduct, such as racist violence. The report states that public condemnation of such expressions is of utmost importance.
+The Commission concluded that at present, it appears that a number of Member States have not transposed fully and/or correctly all the provisions of the Framework Decision, namely in relation to the offences of denying, condoning and grossly trivializing certain crimes.
+The majority of Member States have provisions on incitement to racist and xenophobic violence and hatred, but these do not always seem to fully transpose the offences covered by the Framework Decision. Some gaps have also been observed in relation to the racist and xenophobic motivation of crimes, the liability of legal persons and jurisdiction.
+Denying or trivializing the Holocaust comes to mind. It would be shocking if that would happen in the European Parliament. However similar shocking events have recently taken place in the parliament without the Parliamentβ€™s Secretariat or the Cabinet of the Parliamentβ€™s president reacting.
+In April a Polish MEP, belonging to the European Conservatives and Reformists (ECR), invited a retired professor from Georgetown University to lecture at a conference on anti-Semitism. Ironically Georgetown was also the place where Jan Karski, who risked his life during WWII to report on the Holocaust, was lecturing.
+But nothing could have been more different from Karskiβ€™s legacy, which is being celebrated this year. The speaker was supposed to talk about β€Low intercultural and interreligious competences as a source of anti-Semitismβ€ which sounded quite innocent and interesting.
+She did give a historical overview of ant-Semitism but unfortunately her description of Judaism was based on dubious and one-sided sources which of course are no excuse. The Holocaust was trivialized as Nazi-German fear of bolshevism. The state of Israel was painted as the worst threat to the region (the Middle East).
+I happened to be there and was shocked. I understand that the host of the conference β€“ who has a respectable record β€“ must have invited the speaker by mistake. But I wouldnβ€™t like events like this to happen again. If it happens, I would expect that the Parliament will hold the responsible accountable.
+An oath or pledge of allegiance by all MEPs to fundamental rights and European values would be a step in the right direction.</document>
+<document id="9" mediasource="" type="d" url="">"
+Germany&#039;s Economy Ministry has said it is at odds with the European Union over how to reform the country&#039;s renewable energy law, and Brussels is questioning the entire principle of supporting green energy through surcharges.
+Germany has until Tuesday (24 June) to rework its green energy reform plan to accommodate EU demands that it conform to the bloc&#039;s competition laws. Berlin appeared to have reached an agreement with Brussels over exemptions that protect some heavy industrial users of power from a renewable energy surcharge paid by other consumers.
+However, according to a economy ministry memo circulated late on Monday, new sticking points had arisen with the EU, including a demand by Brussels that power imported from abroad be exempt from the surcharge.
+&quot;This line of argument has only just appeared, and calls into question the entire principle of supporting green energy through surcharges,&quot; the ministry wrote.
+It said, however, that it would be prepared to compromise on other demands by Brussels, including higher surcharges for companies that produce energy in their own power stations. A quarter of industrial power is produced this way.
+Subsidised renewable energy, led by wind and solar power, have sparked a political debate in Germany over high power prices for consumers, who pay mandatory charges for green energy.
+Energy-intensive industries have been exempt or have enjoyed large discounts, something they say they need to remain competitive.
+Under the reform plans, green subsidies will be scaled back and upper limits placed on onshore wind power expansion, solar and offshore wind plants. From 2017, green energy producers will have to compete more with conventional power generators.
+Plans to wean European industrial powerhouse Germany off fossil fuels, accelerate a nuclear phase-out and embrace green energy are being closely watched around the world.</document>
+<document id="10" mediasource="" type="d" url="">"
+Jyrki Katainen, Finland&#039;s outgoing prime minister, is to become the EU&#039;s interim Economics Affairs commissioner, replacing compatriot Olli Rehn, who is leaving to join the European Parliament, the EU said Wednesday (25 June).
+&quot;I decided to attribute to Jyrki Katainen all the responsibilities so far performed by Olli Rehn,&quot; said European Commission chief JosΓ© Manuel Barroso, upon announcing Rehn&#039;s successor to the top EU economic job.
+Katainen, 42, announced in April that he would resign to pursue a career in Brussels, and had made no secret of his intentions to be considered a compromise candidate to head the Commission, should member states reject the controversial appointment of former Luxembourg leader Jean-Claude Juncker.
+&gt;&gt; Read: Katainen joins Commission, Stubb assumes PM role
+The conservative Katainen takes the economics portfolio until October 31, when new leadership is set to take over the Commission, the EU&#039;s executive body staffed by 28 people, one for each member state.
+Katainen takes the job amid a push by centre-left leaders to ease the Commission&#039;s strict budget rules, which are blamed by some for the sluggish growth and high unemployment still gripping Europe.
+Barroso said no government had actually requested a modification of the rules, known as the Stability and Growth Pact, adding that he believed the Commission was unfairly singled out for imposing economic hardship on member states.
+&quot;Certain people are unfairly trying to make it seem that someone in Brussels is imposing their views,&quot; he said.
+Katainen will be replaced as Finnish prime minister by the 46-year-old Alexander Stubb, who was elected by the ruling conservative party on Saturday to form a new government.</document>
+</documents>
+
+</sentimentjob>
