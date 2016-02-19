@@ -1,4 +1,4 @@
-#EU-Community (Opinion Mining and Sentiment Analysis module)
+##EU-Community (Opinion Mining and Sentiment Analysis module)
 
 [![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg)](http://opensource.org/licenses/MIT)
 
