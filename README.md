@@ -7,16 +7,16 @@ Within the framework and scope of EU Community project, the present module aims 
 ### Requirements
 ####Libs:
 
-<a href="http://mvnrepository.com/artifact/org.apache.commons/commons-lang3/3.3.2">Apache Commons Lang 3.3.2</a> 
+-- Apache Commons Lang Library <a href="http://mvnrepository.com/artifact/org.apache.commons/commons-lang3/3.3.2">Apache Commons Lang 3.3.2</a> 
 
-<a href="https://github.com/lessthanoptimal/ejml">Efficient Java Matrix Library</a> 
+-- Efficient Java Matrix Library <a href="https://github.com/lessthanoptimal/ejml">Efficient Java Matrix Library</a> 
 
-<a href="https://github.com/mimno/Mallet">Mallet</a> 
+-- Mallet Library<a href="https://github.com/mimno/Mallet">Mallet</a> 
 
-<a href="https://github.com/rapidminer/rapidminer-5">RapidMiner 5</a> 
+-- RapidMiner 5 Library <a href="https://github.com/rapidminer/rapidminer-5">RapidMiner</a> 
 
-<a href="http://stanfordnlp.github.io/CoreNLP/">Stanford CoreNLP </a> 
+--Stanford CoreNLP Library <a href="http://stanfordnlp.github.io/CoreNLP/">Stanford CoreNLP </a> 
 
-<a href="https://github.com/AlchemyAPI/alchemyapi_java">AlchemyLib</a> 
+--Alchemy Library <a href="https://github.com/AlchemyAPI/alchemyapi_java">AlchemyLib</a> 
 
-<a href="http://jsoup.org/">Java HTML Parser jsoup</a> 
+-- Java HTML Parser jsoup <a href="http://jsoup.org/">Java HTML Parser jsoup</a> 
