@@ -5,4 +5,11 @@
 Within the framework and scope of EU Community project, the present module aims at identifying existing or emerging topics from social media documents, extracting document parts that potentially contain subjective information and apply sentiment classification on such parts in order to characterize the polarity of public opinions and comments to a given topic. 
 
 ### Requirements
-dsads
+Libs:
+<a href="http://mvnrepository.com/artifact/org.apache.commons/commons-lang3/3.3.2">Apache Commons Lang 3.3.2</a> 
+<a href="https://github.com/lessthanoptimal/ejml">Efficient Java Matrix Library</a> 
+<a href="https://github.com/mimno/Mallet">Mallet</a> 
+<a href="https://github.com/rapidminer/rapidminer-5">RapidMiner 5</a> 
+<a href="http://stanfordnlp.github.io/CoreNLP/">Stanford CoreNLP </a> 
+<a href="https://github.com/AlchemyAPI/alchemyapi_java">AlchemyLib</a> 
+<a href="http://jsoup.org/">Java HTML Parser jsoup</a> 
