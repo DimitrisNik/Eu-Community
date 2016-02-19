@@ -10,7 +10,7 @@ Within the framework and scope of EU Community project, the present module aims 
 
 ### Dependencies
 
-The available code requires Java EE 8 programming language and the follow libraries
+The available code requires Java EE programming language and the following libraries.
 
 -- <a href="http://mvnrepository.com/artifact/org.apache.commons/commons-lang3/3.3.2">Apache Commons Lang 3.3.2</a> 
 
@@ -25,6 +25,8 @@ The available code requires Java EE 8 programming language and the follow librar
 -- <a href="https://github.com/AlchemyAPI/alchemyapi_java">AlchemyLib</a> 
 
 -- <a href="http://jsoup.org/">Java HTML Parser jsoup</a> 
+
+Final requires training the following models.
 
 -- Subjectivity Model
 
