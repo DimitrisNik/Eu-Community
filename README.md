@@ -10,6 +10,8 @@ Within the framework and scope of EU Community project, the present module aims 
 
 ### Dependencies
 
+The available code requires Java EE 8 programming language and the follow libraries
+
 -- <a href="http://mvnrepository.com/artifact/org.apache.commons/commons-lang3/3.3.2">Apache Commons Lang 3.3.2</a> 
 
 -- <a href="https://github.com/lessthanoptimal/ejml">Efficient Java Matrix Library</a> 
